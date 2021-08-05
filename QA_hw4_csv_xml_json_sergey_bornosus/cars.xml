@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+	<car>
+		<brand>Hundai</brand>
+		<year_of_issue>2017</year_of_issue>
+		<engine>diesel</engine>
+		<color>white</color>
+		<mileage>120000</mileage>
+	</car>
+	<car>
+		<brand>Toyota</brand>
+		<year_of_issue>2002</year_of_issue>
+		<engine>diesel</engine>
+		<color>gray</color>
+		<mileage>287000</mileage>
+	</car>
+	<car>
+		<brand>Kia</brand>
+		<year_of_issue>2015</year_of_issue>
+		<engine>gas</engine>
+		<color>black</color>
+		<mileage>47000</mileage>
+	</car>
+	<car>
+		<brand>BMW</brand>
+		<year_of_issue>2014</year_of_issue>
+		<engine>diesel</engine>
+		<color>blue</color>
+		<mileage>89000</mileage>
+	</car>
+	<car>
+		<brand>Audi</brand>
+		<year_of_issue>2019</year_of_issue>
+		<engine>gas</engine>
+		<color>red</color>
+		<mileage>45000</mileage>
+	</car>
+</cars>

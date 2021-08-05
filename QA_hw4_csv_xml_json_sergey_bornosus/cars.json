@@ -1,0 +1,33 @@
+{
+	"cars": [{
+		"brand": "Hundai",
+		"year_of_issue": 2017,
+		"engine": "diesel",
+		"color": "white",
+		"mileage": 120000
+	}, {
+		"brand": "Toyota",
+		"year_of_issue": 2002,
+		"engine": "diesel",
+		"color": "gray",
+		"mileage": 287000
+	}, {
+		"brand": "Kia",
+		"year_of_issue": 2015,
+		"engine": "gas",
+		"color": "black",
+		"mileage": 47000
+	}, {
+		"brand": "BMW",
+		"year_of_issue": 2014,
+		"engine": "diesel",
+		"color": "blue",
+		"mileage": 89000
+	}, {
+		"brand": "Audi",
+		"year_of_issue": 2019,
+		"engine": "gas",
+		"color": "red",
+		"mileage": 45000
+	}]
+}
